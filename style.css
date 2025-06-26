@@ -350,7 +350,6 @@ a{
 
 .project-card:hover::before{
     transform: scaleX(1);
-
 }
 
 #project1{
